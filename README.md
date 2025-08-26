@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Lumina</h1>
 <h3 align="left">A passionate fullstack developer from Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luminary1" alt="luminary1" /></a> </p>
+<p align="left"> <a href="https://github.com/luminary1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luminary1" alt="luminary1" /></a> </p>
 
 <h3 align="left">Connect with me:luminary1</h3>
 <p align="left">
